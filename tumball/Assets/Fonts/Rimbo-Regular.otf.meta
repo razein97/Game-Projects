@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e8adb18bb549f334eb339deef5134d1f
+timeCreated: 1508080800
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rimbo
+  fontNames:
+  - Rimbo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

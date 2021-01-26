@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 67a82925db84ba94991fce07076c312c
+timeCreated: 1508039341
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FARRAY
+  fontNames:
+  - FARRAY
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
